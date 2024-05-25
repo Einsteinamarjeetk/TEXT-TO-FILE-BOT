@@ -9,9 +9,9 @@ from pyrogram.types import Message
 
 HB = Client(
     "TEXT_TO_FILE Bot",
-    bot_token = os.environ["BOT_TOKEN"],
-    api_id = int(os.environ["API_ID"]),
-    api_hash = os.environ["API_HASH"],
+    bot_token = os.environ["7136947264:AAGs44hxtL8AGErgeJRHkCuAWIm2oZh9jWQ"],
+    api_id = int(os.environ["9438917"]),
+    api_hash = os.environ["b86192c6db595de8e8863b43648c55da"],
 )   
 thumbnail="HB.jpg"
 
@@ -22,8 +22,9 @@ TEXT TO FILE BOT
 JUST SENT YOUR CODE OR TEXT MESSAGE 
 THEN I WILL CONVERT IT INTO FILE
 
-MADE BY @TELSABOTS**"""
-
+DEVPLOPER ✮͢🦋⃟≛⃝𝗘𝗶𝗻𝘀𝘁𝗲𝗶𝗻_𝗔𝗺𝗮𝗿𝗷𝗲𝗲𝘁✮⃝❤
+MADE BY @am03_2023**"""
+ 
 list_text = """**LIST OF  LANGAUGES
 
 PYTHON➲  /python
@@ -49,7 +50,7 @@ DOCKER FILE ➲ /docker
 C PROGRAMMING ➲ /C
 MARK DOWN ➲ /markdown 
 
-MADE BY @TELSABOTS**"""
+MADE BY @am03_2023**"""
 
 HELP_TEXT = """**
 SENT ANY TEXT MESSAGE.......
@@ -61,21 +62,21 @@ eg :- /python
 PRESS /LIST COMMAND TO KNOW ABOUT
 CUREENTLY SUPPORTED EXTENSIONS
 
-MADE BY @TELSABOTS**
+MADE BY @am03_2023**
 """
 
 ABOUT_TEXT = """
  🤖<b>BOT :TEXT TO FILE </b>
  
- 🧑🏼‍💻DEV🧑🏼‍💻: @ALLUADDICT
+ 🧑🏼‍💻DEV🧑🏼‍💻: @am03_2023
  
- 📢<b>CHANNEL :</b>@TELSABOTS
+ 📢<b>CHANNEL :</b>@ssc_gd_2023_set_practice_rwa
  
  📝<b>Language :</b>  <a href='https://python.org/'>Python3</a>
  
  🧰<b>Frame Work :</b>  <a href='https://pyrogram.org/'>Pyrogram</a>
  
- 🤩<b>SOURCE :</b>  <a href='https://github.com/hbbots/TEXT-TO-FILE-BOT'>CLICK HERE</a>
+ 🤩<b>SOURCE :</b>  <a href='@ssc_gd_2023_set_practice_rwa'>CLICK HERE</a>
  
  
 """
@@ -85,8 +86,8 @@ AND WATCH TOTOURIAL VIDEO IF YOU WANT ANY HELP</b>"""
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📢CHANNEL📢', url='https://telegram.me/TELSABOTS'),
-        InlineKeyboardButton('🧑‍💻DEV🧑‍💻', url='https://telegram.me/alluaddict')
+        InlineKeyboardButton('📢CHANNEL📢', url='https://t.me/ssc_gd_2023_set_practice_rwa'),
+        InlineKeyboardButton('🧑‍💻DEV🧑‍💻', url='https://t.me/+L76MhsZ6SSZlMTU9')
         ],[
         InlineKeyboardButton('🆘HELP🆘', callback_data='help'),
         InlineKeyboardButton('🤗ABOUT🤗', callback_data='about'),
@@ -95,8 +96,8 @@ START_BUTTONS = InlineKeyboardMarkup(
     )
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📢CHANNEL📢', url='https://telegram.me/TELSABOTS'),
-        InlineKeyboardButton('🧑🏼‍💻DEV🧑🏼‍💻', url='https://telegram.me/alluaddict')
+        InlineKeyboardButton('📢CHANNEL📢', url='https://t.me/+L76MhsZ6SSZlMTU9'),
+        InlineKeyboardButton('🧑🏼‍💻DEV🧑🏼‍💻', url='https://t.me/ssc_gd_2023_set_practice_rwa')
         ],[
         InlineKeyboardButton('🏡HOME🏡', callback_data='home'),
         InlineKeyboardButton('🤗ABOUT🤗', callback_data='about'),
@@ -105,8 +106,8 @@ HELP_BUTTONS = InlineKeyboardMarkup(
     )
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📢CHANNEL📢', url='https://telegram.me/TELSABOTS'),
-        InlineKeyboardButton('🧑🏼‍💻DEV🧑🏼‍💻', url='https://telegram.me/alluaddict')
+        InlineKeyboardButton('📢CHANNEL📢', url='https://telegram.me/am03_2023'),
+        InlineKeyboardButton('🧑🏼‍💻DEV🧑🏼‍💻', url='https://t.me/ssc_gd_2023_set_practice_rwa')
         ],[
         InlineKeyboardButton('🏡HOME🏡', callback_data='home'),
         InlineKeyboardButton('🆘HELP🆘', callback_data='help'),
@@ -116,20 +117,20 @@ ABOUT_BUTTONS = InlineKeyboardMarkup(
 
 SOURCE_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🤩SOURCE🤩', url='https://github.com/hbbots/TEXT-TO-FILE-BOT')
+        InlineKeyboardButton('🤩SOURCE🤩', url='https://t.me/ssc_gd_2023_set_practice_rwa')
         ],[
         InlineKeyboardButton('🔐CLOSE 🔐', callback_data='close')
         ]]
     )
 list_buttons = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📢CHANNEL📢', url='https://telegram.me/TELSABOTS'),
-        InlineKeyboardButton('🧑🏼‍💻DEV🧑🏼‍💻', url='https://telegram.me/alluaddict')
+        InlineKeyboardButton('📢CHANNEL📢', url='https://t.me/ssc_gd_2023_set_practice_rwa'),
+        InlineKeyboardButton('🧑🏼‍💻DEV🧑🏼‍💻', url='https://t.me/ssc_gd_2023_set_practice_rwa')
         ],[
         InlineKeyboardButton('🔐CLOSE🔐', callback_data='list')
         ]]
     )
-result_text = """**JOIN @TELSABOTS**"""
+result_text = """**JOIN @ssc_gd_2023_set_practice_rwa**"""
 
 @HB.on_callback_query()
 async def cb_data(bot, update):
@@ -206,8 +207,8 @@ async def Source_message(bot, update):
     )     
 result_buttons = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📢CHANNEL📢', url='https://telegram.me/TELSABOTS'),
-        InlineKeyboardButton('🧑🏼‍💻DEV🧑🏼‍💻', url='https://telegram.me/alluaddict')
+        InlineKeyboardButton('📢CHANNEL📢', url='https://t.me/ssc_gd_2023_set_practice_rwa'),
+        InlineKeyboardButton('🧑🏼‍💻DEV🧑🏼‍💻', url='https://t.me/ssc_gd_2023_set_practice_rwa')
         ],[
         InlineKeyboardButton('🔐CLOSE🔐', callback_data='close')
         ]]
@@ -217,7 +218,7 @@ CAPTION = os.environ.get("CAPTION", None)
             
 WATERMARK = os.environ.get("WATERMARK", None)
     
-result_text = """**JOIN @TELSABOTS"""
+result_text = """**JOIN @ssc_gd_2023_set_practice_rwa"""
 
 if bool(WATERMARK):
                 caption = WATERMARK
@@ -404,6 +405,6 @@ async def echo_document(client: Client, msg: Message):
     file_obj.name = "HB.less"
     await client.send_document(msg.chat.id, file_obj, thumb=thumbnail, reply_markup=reply_markup, caption=caption)
             
-print("HB")
+print("EINSTEIN")
 
 HB.run()
