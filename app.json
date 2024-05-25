@@ -1,41 +1,41 @@
 {
-  "name": "HB EXTENSION BOT",
-  "description": "HB TEST TO FILE BOT",
+  "name": "EINSTEIN EXTENSION BOT",
+  "description": "EINSTEIN TEST TO FILE BOT",
 
   "keywords": [
     "FILE",
     "TEXT",
     "EXTENSION",
-    "HB"
+    "EINSTEIN"
  
   ],
-  "logo": "https://telegra.ph/file/e8a39b06fabbfac6bce8f.jpg",
-  "repository": "https://github.com/hbbots/TEXT-TO-FILE-BOT",
+  "logo": "https://te.legra.ph/Einstein-Amarjeet-05-12",
+  "repository": "https://github.com/Einsteinamarjeetk/TEXT-TO-FILE-BOT",
   "env": {
     "WEBHOOK": {
       "description": "LEAVE IT",
       "value": "ANYTHING"
     },
     "CAPTION": {
-      "description": "ADD ANY TEXT ",
+      "description": "Hello Guy's How Are You? ",
       "value": "",
       "required": false
     },
     "WATERMARK": {
-      "description": "ADD ANY TEXT  ",
+      "description": "Einstein Amarjeet❤",
       "value": "",
       "required": false
     },
     "BOT_TOKEN": {
-      "description": "YOUR BOT TOKEN FROM @BotFather",
+      "description": "7136947264:AAGs44hxtL8AGErgeJRHkCuAWIm2oZh9jWQ",
       "value": ""
     },
     "API_ID": {
-      "description": "YOUR API ID, USE @TeleORG_Bot  ",
+      "description": "9438917",
       "value": ""
     },
     "API_HASH": {
-      "description": "YOUR API HASH, USE @TeleORG_Bot ",
+      "description": "b86192c6db595de8e8863b43648c55da",
       "value": ""
     }
   },
